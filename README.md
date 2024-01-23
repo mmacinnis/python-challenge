@@ -1,6 +1,8 @@
 # python-challenge
 
 Both scripts export printed data to a text file, which can be found in the "analysis" subdirectory.
+For some reason, I was not able to create the "analysis" subdirectory for PyPoll, even though I uploaded it
+exactly the same way I upload PyBank. 
 
 Apologies for the formatting, but the information requested was printed to be fairly close to the example.
 
